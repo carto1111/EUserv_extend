@@ -11,14 +11,14 @@
                 "decryption": "none",
                 "clients": [
                   {
-                    "id": "798204ad-2a2d-4f66-bc88-88bfe11946f8"
+                    "id": "ed7bc0c9-b9f9-49f8-a57a-5d962a9dbb89"
                   }
                 ]
               },
               "streamSettings": {
                 "network":"ws",
                 "wsSettings": {
-                  "path": "/798204ad"
+                  "path": "/dao"
                 }
               }
             }
